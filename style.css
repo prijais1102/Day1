@@ -1,0 +1,22 @@
+.banner
+{
+   box-sizing: border-box;
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width: 960px;
+   height: 275px;
+   border:1px solid black;
+   align-content: center;
+   object-fit:fill;
+
+}
+.nav
+{
+    text-align: center;
+}
+a:link 
+{
+    text-decoration: none;
+}
+  
